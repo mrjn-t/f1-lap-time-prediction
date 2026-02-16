@@ -1,0 +1,5 @@
+__pycache__/
+.fastf1_cache/
+.ipynb_checkpoints/
+*.csv
+*.zip
