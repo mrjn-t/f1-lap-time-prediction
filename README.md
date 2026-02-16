@@ -121,6 +121,12 @@ This project helped me practice:
 
 ---
 
+## Installation
+
+pip install -r requirements.txt
+
+---
+
 ## Author
 
 Personal machine learning project created as part of my preparation for MSc studies in Data Science / AI.
